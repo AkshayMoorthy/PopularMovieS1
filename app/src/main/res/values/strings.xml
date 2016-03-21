@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+
+    <string name="no_content">No Content.</string>
+    <string name="title_activity_setting">SettingActivity</string>
+    <string name="pref_sort_by">Sort by</string>
+    <string name="popularity">Popularity</string>
+    <string name="highest_rated">Highest rated</string>
+    <string name="action_popularity">By Popularity</string>
+    <string name="action_rating">By High Rating</string>
+    <string name="temp_overview">Every child come into the world full of promise, and none more so than Every child come into the world full of promise, and none more so than</string>
+    <string name="empty_detail_text">Select a movie from list to get the detail.</string>
+    <string name="movie_detail">Movie Detail</string>
+
+</resources>
